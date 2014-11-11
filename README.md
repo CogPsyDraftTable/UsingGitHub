@@ -11,7 +11,12 @@ Git is freely available verion control software. It can be installed on your loc
 
 GitHub is this website. It provides cloud-based git repositories. If you have Git on your local machine, you can create repositories locally, and load them into cloud. And, you can download repositories from the cloud onto the local machine. GitHub also provides many project management and social networking features. All of your individual contributions to changing or adding content for GitHub repositories will be recorded on your user profile. 
 
-GitHub Repositories like this one are containers for files inside the repository. Whole repositories can be downloaded easily as a .zip file from the main GitHub website without using Git. Clicking into a repository allows...
+GitHub Repositories like this one are containers for files inside the repository. Whole repositories can be downloaded easily as a .zip file from the main GitHub website without using Git. Clicking into a repository opens up a number of useful tools at the repository level.
+
+1. Individual .txt files can be modified directly from the website
+2. The icons on the sidebar offer things like boards, issues, and wikis
+3. Boards can be used to set up a structure for threaded discussions
+
 
 
 

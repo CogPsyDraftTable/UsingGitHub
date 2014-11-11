@@ -16,6 +16,8 @@ GitHub Repositories like this one are containers for files inside the repository
 1. Individual .txt files can be modified directly from the website
 2. The icons on the sidebar offer things like boards, issues, and wikis
 3. Boards can be used to set up a structure for threaded discussions
+4. Issues can be used to post comments, and comments on comments to produce threaded discussion. Posted comments can be given different labels.
+
 
 
 

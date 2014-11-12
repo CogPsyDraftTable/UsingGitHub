@@ -1,5 +1,12 @@
 # Repository Basics
 
+Below are some notes that I'm writing as I'm in the process of learning how to use GitHub Repositories. I'll also put a link to a screen-cast covering these same topics. Please feel free to add to this. The general goal is to be able to make use of Git in simple and effective ways.
+
+Here's the screen cast. 
+
+
+## Get this stuff first
+
 1. Get a GitHub account, it's free
 2. Download GitHub for Mac, it's a free program for easy sharing between repositories on Github, and repositories on your local machine.
 
@@ -19,5 +26,18 @@ The new repository can now be expanded in various ways. You can clone a copy of 
 ## Syncing the local folder back to the GitHub cloud 
 1. If you have successfully cloned a repository, then you can just go to that folder and work on the files in that folder in the way you normally would. Open the files, make changes, add new files etc.
 2. When you want to resync the changes that you made on your local machine to the cloud version of the repo, open up GitHub for Mac, click on the name of the repo that you have been working on, simply press the sync button on the top right-hand corner (you can also make a note to yourself if you want about the nature of the changes that were made by clicking on the changes tab before you sync and writing the note).
+
+## Creating a repository locally using Github for Mac and sending it GitHub 
+
+1. Have some folder that you want to turn into a Git Repo
+2. Open Git for Mac
+3. Press the add button, choose Add, choose the folder containing the files for your repo.
+4. Choose Create and Add
+5. When you are ready, sync the repo to GitHub. You will be able to choose where the repo goes (e.g., your own Github page, or any other one where you have privileges, like CogPsyDraftTable).
+
+
+
+
+
 
 

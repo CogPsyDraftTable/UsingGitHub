@@ -4,6 +4,8 @@ Below are some notes that I'm writing as I'm in the process of learning how to u
 
 Here's the screen cast. 
 
+https://dl.dropboxusercontent.com/u/14462007/Videos/GitHubBasics.mov
+
 
 ## Get this stuff first
 

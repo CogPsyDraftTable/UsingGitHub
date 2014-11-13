@@ -44,6 +44,18 @@ The new repository can now be expanded in various ways. You can clone a copy of 
 
 Github repositories can have a branching structure, with a master branch and sub-branches. Branching is very useful for collaboratively working on a project. It allows collaborators to create a branch off of the master, make changes to the branch, and then merge the changes at the branch level up to the master level. This works well for software development, where the master level is intended to contain code that is always verified to work. In this context it could be dangerous to edit the master branch directly because edits could corrupt the stability of the master code. Using branches, changes can be made to a copy of the master, the collaborator can test the changes at the branch level to make sure there are no issues, then they can send the edited branch back to the master repository. This would constitute making a pull request. Then, at the master branch level, the incoming edits (the pull request) can be reviewed and commented upon, and finally merged into the main master branch.
 
+### Suggested workflow for branches
+
+1. Create a new repository (either via the web, or using Github for the Mac). This will automatically create the master branch
+2. Create a new branch off of the master locally. Use Github for Macm click the icon that looks like a couple of connected nodes with a plus sign. Type in a name. The branch will automatically be created.
+3. Set the current working branch under the branches tab. Whichever branch you set will cause any changes to local files to be updated to the current branch. Note, creating a branch off of the master will not double-up on the local folder containing the files in the repository.
+4. Make changes and additions to files in the repository.
+5. Commit the changes and sync them.
+6. Changes to sub branches can then be sent as pull requests back to the master branch. So, the owner of the master branch can decide whether or not to merge the changes from the sub branch into the master branch.
+
+
+This workflow allows a "pristine" copy of the repository at the master level that is only ever modified once the owner of the repository agrees to merge changes from sub-branches. This kind of workflow would be very helpful to adopt for collaborating on different repositories. For any collaborative work, we should not be making changes to the master branch. We should be creating sub-branches from the master, making changes there, then sending the changes back at the sub-branch level. This way the owner of the repository can accept and merge the changes in the master if they want, or simply keep the sub-branch open for further development without merging into the master.
+
 
 ###Help on using branches
 
